@@ -8,6 +8,10 @@
 - [Node Manager](https://github.com/OpenFogStack/MockFog-NodeManager)
 - [Node Agent](https://github.com/OpenFogStack/MockFog-Agent)
 
+## Related Publication
+
+Jonathan Hasenburg, Martin Grambow, Elias Grünewald, Sascha Huk, David Bermbach. **MockFog: Emulating Fog Computing Infrastructure in the Cloud**. In: Proceedings of the First IEEE International Conference on Fog Computing 2019 (ICFC 2019). IEEE 2019. [Bib](http://www.mcc.tu-berlin.de/fileadmin/fg344/publications/2019-02-11_mockfog.bib). [PDF](http://www.mcc.tu-berlin.de/fileadmin/fg344/publications/2019-02-11_mockfog.pdf).
+
 ## Authors
 This is **joint work** of
 - Sören Becker ([srnbckr](https://github.com/srnbckr)),
